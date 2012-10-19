@@ -1,6 +1,11 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
+# built application files
+*.pdb
 
-# mstest test results
-TestResults
+# .net class files
+*.cpp
+*.vb
+*.xaml
+
+# generated files
+bin/
+obj/
